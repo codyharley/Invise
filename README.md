@@ -22,7 +22,7 @@ Invise is a [CefSharp](https://github.com/cefsharp/CefSharp/) based open source 
 - Multi Profiles
 - WPF-friendly UI like Chrome
 - Platform selection: Windows, MacOS and Linux support has not been added yet
-- Proxy Setup: HTTP, SOCKS4 and SOCKS5 support has not been added yet
+- Proxy Setup: HTTP, SOCKS5 auth support has not been added yet
 - Setup Cookie - Full support will be added in the next updates
 - Setup Useragent 
 - Configuring WebRTC
