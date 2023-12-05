@@ -54,3 +54,13 @@ Invise is a [CefSharp](https://github.com/cefsharp/CefSharp/) based open source 
 - Some optimization for profile history work
 - Add Mediator pattern
 - Other Chrome-browser features
+
+## Support the project financially
+
+TRX(Tron): TGztJ8FSwKNSrigESddGq6euHa9UgtkujG
+
+BTC(Bitcoin): bc1q9ym4ac67x9c2slg64lq3u8wczdadj4tep7y2fw
+
+ETH(Ethereum): 0xb9Fa2B5661238eC9D825bdb0379Db5b035179282
+
+**Thanks to your support You can let me know which features You expect most to have the highest priority!**
