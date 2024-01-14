@@ -55,7 +55,9 @@ Invise is a [CefSharp](https://github.com/cefsharp/CefSharp/) based open source 
 - Add Mediator pattern
 - Other Chrome-browser features
 
-## Support the project financially
+## Support the project
+
+Put "star" on this project or if you want to help with money:
 
 TRX(Tron): TGztJ8FSwKNSrigESddGq6euHa9UgtkujG
 
